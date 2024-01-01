@@ -135,7 +135,8 @@ Add images and other contents using CSS record a screenshot of it.
 </html>
 ```
 ## output:
-![Screenshot 2023-12-26 111723](https://github.com/PREM3112/Ex-06-Book-Cover-Design/assets/145449383/efec1a7b-801a-4ac0-9451-ddec1c3273b1)
+![Screenshot 2024-01-01 102527](https://github.com/PREM3112/Ex-06-Book-Cover-Design/assets/145449383/7564a0ab-ac82-4335-9911-9f3ef1239dd6)
+
 
 ## result:
 output got successfully.
